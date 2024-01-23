@@ -1,0 +1,12 @@
+Branches:
+
+feature/nome-da-funcionalidade: Utilize essa nomenclatura para criar branches que adicionam novas funcionalidades ao projeto. Por exemplo, "feature/navbar" para a criação da barra de navegação.
+
+Commits:
+
+feat: Use "feat" para commits que adicionam uma nova funcionalidade ao projeto.
+fix: Utilize "fix" para commits que corrigem algum bug ou problema no código.
+chore: Use "chore" para commits que realizam tarefas de manutenção, como atualização de dependências ou refatoração de código.
+docs: Utilize "docs" para commits que adicionam ou atualizam a documentação do projeto.
+style: Use "style" para commits que realizam alterações relacionadas à estilização do projeto, como mudanças no CSS.
+Lembre-se de adaptar essas sugestões de acordo com as necessidades do seu projeto. O importante é manter uma nomenclatura clara e consistente para facilitar a organização e entendimento do código. Espero que isso ajude! Se tiver mais alguma dúvida, é só me perguntar. 🌟
